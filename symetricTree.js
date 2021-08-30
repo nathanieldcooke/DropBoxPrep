@@ -28,3 +28,5 @@ const isSymmetric = (root) => {
     console.log("AOT: ", arrOfTree)
     return isMirrored(arrOfTree);
 };
+
+console.log('hellooooo')
