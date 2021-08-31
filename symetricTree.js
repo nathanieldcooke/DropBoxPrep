@@ -5,6 +5,13 @@ const buildInOrderArr = (root, arr = [], move = "L") => {
     return arr;
 };
 
+// const buildInOrderArr = (root, arr = [], move = "L") => {
+//     if (root.left) buildInOrderArr(root.left, arr, "L");
+//     arr.push([root.val, move]);
+//     if (root.right) buildInOrderArr(root.right, arr, "R");
+//     return arr;
+// };
+
 const isMirrored = (arr) => {
     let i = 0;
     let j = arr.length - 1;
