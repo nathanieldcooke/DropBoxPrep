@@ -28,12 +28,12 @@ const isMirrored = (arr) => {
     return true;
 }
 
-const isSymmetric = (root) => {
-    if (!root) return true;
+// const isSymmetric = (root) => {
+//     if (!root) return true;
 
-    const arrOfTree = buildInOrderArr(root);
-    console.log("AOT: ", arrOfTree)
-    return isMirrored(arrOfTree);
-};
-
+//     const arrOfTree = buildInOrderArr(root);
+//     console.log("AOT: ", arrOfTree)
+//     return isMirrored(arrOfTree);
+// };
+console.log("I'm a failure!!!")
 console.log('hellooooo sooooo sad')
