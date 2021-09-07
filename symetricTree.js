@@ -35,5 +35,5 @@ const isMirrored = (arr) => {
 //     console.log("AOT: ", arrOfTree)
 //     return isMirrored(arrOfTree);
 // };
-console.log("I'm a failure!!!")
-console.log('hellooooo sooooo sad')
+// console.log("I'm a failure!!!")
+// console.log('hellooooo sooooo sad')
